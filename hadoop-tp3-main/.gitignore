@@ -2,3 +2,12 @@
 .DS_Store
 target/
 *.jar
+
+!hadoop-tp3-main/jars/tpfinal-Clement_RONCOLATO_job1.jar
+!hadoop-tp3-main/jars/tpfinal-Clement_RONCOLATO_job2.jar
+!hadoop-tp3-main/jars/tpfinal-Clement_RONCOLATO_job3.jar
+
+!jars/tpfinal-Clement_RONCOLATO_job1.jar
+!jars/tpfinal-Clement_RONCOLATO_job2.jar
+!jars/tpfinal-Clement_RONCOLATO_job3.jar
+
